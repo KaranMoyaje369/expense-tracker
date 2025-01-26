@@ -84,9 +84,9 @@ const App = () => {
                 <select onChange={(e) => setFilter(e.target.value)}>
                   <option value="All">All</option>
                   <option value="Food">Food</option>
-                  <option value="Entertaiment">Entertaiment </option>
+                  <option value="Entertainment">Entertainment </option>
                   <option value="Travel">Travel</option>
-                  <option value="Hosiptal">Hosiptal</option>
+                  <option value="Hospital">Hospital</option>
                   <option value="other">other</option>
                 </select>
               </div>

@@ -87,7 +87,7 @@ const App = () => {
                   <option value="Entertainment">Entertainment </option>
                   <option value="Travel">Travel</option>
                   <option value="Hospital">Hospital</option>
-                  <option value="other">other</option>
+                  <option value="Other">Other</option>
                 </select>
               </div>
             </div>
